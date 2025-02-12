@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|c:\\users\\dell\\source\\repos\\quote_calculation_application\\quote_calculation_application\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|solutionrelative:quote_calculation_application\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|c:\\users\\dell\\source\\repos\\quote_calculation_application\\quote_calculation_application\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|solutionrelative:quote_calculation_application\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|c:\\users\\dell\\source\\repos\\quote_calculation_application\\quote_calculation_application\\models\\insureevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|solutionrelative:quote_calculation_application\\models\\insureevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|c:\\users\\dell\\source\\repos\\quote_calculation_application\\quote_calculation_application\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|solutionrelative:quote_calculation_application\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|c:\\users\\dell\\source\\repos\\quote_calculation_application\\quote_calculation_application\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|solutionrelative:quote_calculation_application\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|c:\\users\\dell\\source\\repos\\quote_calculation_application\\quote_calculation_application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|solutionrelative:quote_calculation_application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|c:\\users\\dell\\source\\repos\\quote_calculation_application\\quote_calculation_application\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D58B1E-95FC-40B4-A347-9DBF541850D2}|quote_calculation_Application\\quote_calculation_Application.csproj|solutionrelative:quote_calculation_application\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Views\\Insuree\\Create.cshtml",
+              "RelativeDocumentMoniker": "quote_calculation_Application\\Views\\Insuree\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Views\\Insuree\\Create.cshtml",
+              "RelativeToolTip": "quote_calculation_Application\\Views\\Insuree\\Create.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:50:03.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "quote_calculation_Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "quote_calculation_Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T16:08:17.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "quote_calculation_Application\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "quote_calculation_Application\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T16:24:16.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "quote_calculation_Application\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "quote_calculation_Application\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:04:55.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsureeVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Models\\InsureeVM.cs",
+              "RelativeDocumentMoniker": "quote_calculation_Application\\Models\\InsureeVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Models\\InsureeVM.cs",
+              "RelativeToolTip": "quote_calculation_Application\\Models\\InsureeVM.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAhwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:18:51.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsureeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Controllers\\InsureeController.cs",
+              "RelativeDocumentMoniker": "quote_calculation_Application\\Controllers\\InsureeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Controllers\\InsureeController.cs",
+              "RelativeToolTip": "quote_calculation_Application\\Controllers\\InsureeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:37:18.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "quote_calculation_Application\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\quote_calculation_Application\\quote_calculation_Application\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "quote_calculation_Application\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T16:06:26.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
